@@ -1,0 +1,63 @@
+In /home/aubcls77/homework_6/part_2/book_pages/pg1184.txt there are 3 occurences of triple
+triple is found on lines: 25977
+52149
+53880
+In /home/aubcls77/homework_6/part_2/book_pages/pg1232.txt there are 0 occurences of triple
+triple is found on lines: 
+In /home/aubcls77/homework_6/part_2/book_pages/pg1322.txt there are 0 occurences of triple
+triple is found on lines: 
+In /home/aubcls77/homework_6/part_2/book_pages/pg135.txt there are 8 occurences of triple
+triple is found on lines: 22959
+23435
+26468
+40471
+44619
+54513
+62742
+62943
+In /home/aubcls77/homework_6/part_2/book_pages/pg158.txt there are 0 occurences of triple
+triple is found on lines: 
+In /home/aubcls77/homework_6/part_2/book_pages/pg161.txt there are 0 occurences of triple
+triple is found on lines: 
+In /home/aubcls77/homework_6/part_2/book_pages/pg16328.txt there are 0 occurences of triple
+triple is found on lines: 
+In /home/aubcls77/homework_6/part_2/book_pages/pg1661.txt there are 0 occurences of triple
+triple is found on lines: 
+In /home/aubcls77/homework_6/part_2/book_pages/pg174.txt there are 0 occurences of triple
+triple is found on lines: 
+In /home/aubcls77/homework_6/part_2/book_pages/pg1952.txt there are 0 occurences of triple
+triple is found on lines: 
+In /home/aubcls77/homework_6/part_2/book_pages/pg2591.txt there are 0 occurences of triple
+triple is found on lines: 
+In /home/aubcls77/homework_6/part_2/book_pages/pg2701.txt there are 0 occurences of triple
+triple is found on lines: 
+In /home/aubcls77/homework_6/part_2/book_pages/pg30254.txt there are 0 occurences of triple
+triple is found on lines: 
+In /home/aubcls77/homework_6/part_2/book_pages/pg345.txt there are 0 occurences of triple
+triple is found on lines: 
+In /home/aubcls77/homework_6/part_2/book_pages/pg4300.txt there are 7 occurences of triple
+triple is found on lines: 12274
+12881
+12882
+16032
+19473
+20158
+24038
+In /home/aubcls77/homework_6/part_2/book_pages/pg5200.txt there are 0 occurences of triple
+triple is found on lines: 
+In /home/aubcls77/homework_6/part_2/book_pages/pg6130.txt there are 4 occurences of triple
+triple is found on lines: 6108
+8659
+13773
+14481
+In /home/aubcls77/homework_6/part_2/book_pages/pg74.txt there are 1 occurences of triple
+triple is found on lines: 8114
+In /home/aubcls77/homework_6/part_2/book_pages/pg76.txt there are 0 occurences of triple
+triple is found on lines: 
+In /home/aubcls77/homework_6/part_2/book_pages/pg844.txt there are 0 occurences of triple
+triple is found on lines: 
+In /home/aubcls77/homework_6/part_2/book_pages/pg8800.txt there are 2 occurences of triple
+triple is found on lines: 4408
+5078
+In /home/aubcls77/homework_6/part_2/book_pages/pg98.txt there are 0 occurences of triple
+triple is found on lines: 
