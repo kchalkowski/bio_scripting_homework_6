@@ -1,0 +1,67 @@
+
+get_fasta_stats.pl - Last Modified: October 20, 2010
+
+Contig statistics for fasta file:'output.pep'
+
+Number of Contigs=15034, Total bp=4137830, Shortest=99, Longest=7982,
+Average length=275.2, Average GC%=40.8%, Non-ACGT bases=3273059,
+Longest Run of non-ACGT Bases=201, Total non-ACGT bases on contig ends=129746,
+Longest Run of Ns=10, Total Ns on contig ends=391
+Median=175, Mode=101 occurs 177 times
+
+Histogram of sequence lengths
+
+Maximum		 (Each '*' represents 109 occurrences,
+Bases	Count	  '+' represents 1/2 '*')
+158	6500	|***********************************************************+
+316	5285	|************************************************
+474	1769	|****************
+632	707	|******
+790	299	|**+
+948	159	|*
+1106	79	|+
+1264	35	|
+1422	46	|
+1580	24	|
+1738	19	|
+1896	16	|
+2054	11	|
+2212	5	|
+2370	3	|
+2528	1	|
+2686	4	|
+2844	5	|
+3002	4	|
+3160	1	|
+3318	2	|
+3476	0	|
+3634	0	|
+3792	0	|
+3950	0	|
+4108	2	|
+4266	2	|
+4424	2	|
+4582	2	|
+4740	2	|
+4898	4	|
+5056	2	|
+5214	4	|
+5372	0	|
+5530	0	|
+5688	0	|
+5846	0	|
+6004	0	|
+6162	0	|
+6320	0	|
+6478	0	|
+6636	0	|
+6794	0	|
+6952	0	|
+7110	0	|
+7268	8	|
+7426	8	|
+7584	4	|
+7742	0	|
+7900	4	|
+8058	16	|
+
